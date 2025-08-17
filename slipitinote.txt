@@ -1,0 +1,7 @@
+escreva: (palavra)
+scanf 
+
+se palavra[0]=palavra[-1] 
+digite ("é palíndromo)
+senão 
+digite ("não é palíndromo)
